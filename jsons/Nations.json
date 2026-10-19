@@ -74,6 +74,13 @@
 			"Neom", //stylized as NEOM
 			"Qiddiya City"],
         "spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
-
+		"civilopediaText": [
+			{
+				"text": "NBA Is As Building Arabic National."
+			},
+			{
+				"text": "So....."
+			}
+				]
     }
 ]
