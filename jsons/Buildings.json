@@ -1,0 +1,11 @@
+[
+	{
+		"name": "TBK Radio Barracks",
+		"uniqueTo": "Thailand",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Radio"
+	}
+]
