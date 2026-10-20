@@ -22,7 +22,7 @@
 		"innerColor": [255, 255, 0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Arabia Builer, [Trade Caravans]",
-		"uniques": ["[+1 Gold] from each Trade Route", "[+95]% [Oil] resource production <before the [Modern era]><hidden from users>", "[+100]% [Oil] resource production <upon entering the [Modern era]><hidden from users>", "Comment [[[+95-100]% [Oil] resource production] ([[+100]% [Oil] resource production])]<Civilopedia link [Resource/Oil]>"],
+		"uniques": ["[+1 Production] in cities on [Forest] tiles <in tiles without [Hill]>", "[+1 Gold] from each Trade Route", "[+95]% [Oil] resource production <before the [Modern era]><hidden from users>", "[+100]% [Oil] resource production <upon entering the [Modern era]><hidden from users>", "Comment [[[+95-100]% [Oil] resource production] ([[+100]% [Oil] resource production])]"],
 		"cities": [
 			"Riyadh",
 			"Jeddah",
