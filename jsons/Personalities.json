@@ -28,5 +28,35 @@
       "Autocracy": 4,
       "Order": 7
     }
+  },
+  {
+    "name": "Luda",
+    "production": 5,
+    "food": 6,
+    "gold": 5,
+    "science": 5,
+    "culture": 8,
+    "happiness": 6,
+    "faith": 6,
+    "military": 5,
+    "aggressive": 2,
+    "declareWar": 5,
+    "commerce": 6,
+    "diplomacy": 8,
+    "loyal": 7,
+    "expansion": 6,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 6,
+      "Honor": 5,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 7,
+      "Rationalism": 6,
+      "Freedom": 8,
+      "Autocracy": 5,
+      "Order": 8
+    }
   }
 ]
