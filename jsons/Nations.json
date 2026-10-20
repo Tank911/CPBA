@@ -98,7 +98,7 @@
         // Following the transition to a constitutional monarchy, the country was officially renamed Thailand on 24 June 1939.
         // NOTES: Siam as 1782–1932.
 		"name": "Thailand",
-		"leaderName": "",
+		"leaderName": "(Luda)", // [Sic] Luda is “emoji dog” not government, Many then Monarch. leader not about government.
 		"adjective": ["Siamese"],
 		"startBias": ["Avoid [Forest]"],
 		"preferredVictoryType":"Diplomatic",
@@ -124,5 +124,6 @@
 			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
 			"Ban Phai","Loci","Khon Kaen","Surin"],
         "spyNames": ["Aran", "Chanarong", "Kiet", "Niran", "Virote", "Kulap", "Mayuree", "Phueng", "Ratana", "Tola"]
-    },
+       "civilopediaText": [{"text": "[See also]: [Siam]", "link": "Nation/Siam"}]
+    }
 ]
