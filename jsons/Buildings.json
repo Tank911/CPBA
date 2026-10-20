@@ -18,4 +18,17 @@
 		"requiredTech": "Radio",
 		"uniques": ["Broadcast Tower", "Adopt [Freedom] <before adopting [Autocracy]><before adopting [Order]>", "Adopt [Constitution] <before adopting [Autocracy]><before adopting [Order]>", "Adopt [Patronage]", "Only available <in [Capital] cities>"]
 	},
+	{
+		"name": "[Wat]",
+		"replaces": "University",
+		"uniqueTo": "Thailand", //form also call Siam but also building well.
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"culture": 3,
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
 ]
