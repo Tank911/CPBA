@@ -83,5 +83,46 @@
 			},
 			{"text": "[See also]: [Arabia]", "link": "Nation/Arabia"},
 				]
-    }
+    },
+	
+	{
+		// Before 1939, Thailand was known internationally as Siam. The word Thai (ไทย) is traditionally interpreted to mean 'free man' in the Thai language, distinguishing the Thai from serfs in historical society.  
+        // However, other scholars suggest the term originally meant simply 'people' or 'human being', noting its historical use in rural areas.
+        // Thais typically refer to their country using the polite form prathet Thai (Thai: ประเทศไทย) or the more colloquial mueang Thai (Thai: เมืองไทย). The word mueang, which archaically referred to a city-state, is commonly used to denote a city or region. 
+        // The country's official name, Ratcha-anachak Thai (Thai: ราชอาณาจักรไทย), translates to 'Kingdom of Thailand'. 
+        // Etymologically, its components derive from Sanskrit and Pali: ratcha ('royal'), ana ('authority'), and -chak ('wheel', a symbol of power).
+        // The former name Siam may have originated from the Sanskrit word śyāma (श्याम, 'dark') or the Mon word rhmañña ('stranger'), which likely shares a root with Shan and Assam.
+        // Another theory suggests the name derives from the Chinese term Xiān, used to refer to the region. Following the merger of local kingdoms in 1349, Chinese records began referring to the Ayutthaya Kingdom as Xiānluó (暹羅).
+        // The ancient Khmers also used Siam to refer to the people settled in the Chao Phraya River valley, as recorded in 13th-century inscriptions.
+        // The name Siam gained official status in international relations during the 19th century, notably appearing in the Bowring Treaty under the signature of King Mongkut (r. 1851–1868), who signed as Mongkut Rex Siamensium (Mongkut, King of the Siamese). 
+        // Following the transition to a constitutional monarchy, the country was officially renamed Thailand on 24 June 1939.
+        // NOTES: Siam as 1782–1932.
+		"name": "Thailand",
+		"leaderName": "",
+		"adjective": ["Siamese"],
+		"startBias": ["Avoid [Forest]"],
+		"preferredVictoryType":"Diplomatic",
+		"personality": "Ramkhamhaeng",
+
+        "startIntroPart1": "O Great King Ramkhamhaeng, the Siamese people obey you with respect and fear! The beautiful and mysterious land of Siam is an ancient country in the heart of Southeast Asia, which was besieged by many foes, plagued by bloody war and great poverty, but eventually the smart and loyal Siamese people have endured and triumphed. Siam was a part of the Khmer Empire until the 13th century AD, before its brave people took arms and led a revolution to form the small Sukhothai kingdom. After many battles and diplomacy prowess, this tiny kingdom became a mighty empire, which would dominate South East Asia for more than a century.",
+        "startIntroPart2": "Wise and powerful King Ramkhamhaeng, your people want to revive these days of glory! Can you make a new dawn break on Siam? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "You lowly, arrogant fool! I will make you regret of your insolence!",
+		"attacked": "You scoundrel! I shall prepare to fend you off!",
+		"defeated": "Although I lost, my honor shall endure. I wish you good luck.",
+		"introduction": "I, Pho Kun Ramkhamhaeng, King of Siam, consider it a great honor that you have walked to visit my country of Siam.",
+		"neutralHello": "Welcome.",
+		"hateHello": "Greetings.",
+		"tradeRequest": "Greetings. I believe this is a fair proposal for both parties. What do you think?",
+		"outerColor": [245, 230, 55],
+		"innerColor": [177, 8, 3],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Father Governs Children",
+		"uniques": ["[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+10] XP"],
+		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
+			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
+			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
+			"Ban Phai","Loci","Khon Kaen","Surin"],
+        "spyNames": ["Aran", "Chanarong", "Kiet", "Niran", "Virote", "Kulap", "Mayuree", "Phueng", "Ratana", "Tola"]
+    },
 ]
