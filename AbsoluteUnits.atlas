@@ -46,3 +46,24 @@ TileSets/AbsoluteUnits/Units/[Landship] (Muhammad III)-2
   orig: 77, 65
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/IR-2 Tank
+  rotate: false
+  xy: 532, 151
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/IR-2 Tank-1
+  rotate: false
+  xy: 617, 170
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/IR-2 Tank-2
+  rotate: false
+  xy: 532, 78
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
