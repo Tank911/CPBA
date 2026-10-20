@@ -7,5 +7,15 @@
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Radio"
-	}
+	},
+	{
+		"name": "TBK Radio",
+		"uniqueTo": "Thailand",
+		"culture": 5,
+		"percentStatBonus": {"culture": 11},
+		"requiredBuilding": "Museum",
+		"maintenance": 3,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
