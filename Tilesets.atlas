@@ -32,3 +32,17 @@ TileSets/HexaRealm/Units/[Landship] (Muhammad III)
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/IR-2 Tank
+  rotate: false
+  xy: 1060, 722
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/IR-2 Tank
+  rotate: false
+  xy: 436, 132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
