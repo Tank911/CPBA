@@ -45,3 +45,16 @@ UnitIcons/[Landship] (Muhammad II)
   orig: 100, 100
   offset: 0, 0
   index: -1
+
+Tak berjudul5581.png
+size: 700, 700
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+UnitIcons/IR-2 Tank
+  rotate: false
+  xy: 0, 0
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
