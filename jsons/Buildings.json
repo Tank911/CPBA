@@ -11,11 +11,11 @@
 	{
 		"name": "TBK Radio",
 		"uniqueTo": "Thailand",
-		"culture": 5,
+		"culture": 10,
 		"percentStatBonus": {"culture": 11},
-		"requiredBuilding": "Museum",
-		"maintenance": 3,
+		"requiredBuilding": "Broadcast Tower",
+		"maintenance": 4,
 		"requiredTech": "Radio",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Broadcast Tower", "Adopt [Freedom] <before adopting [Autocracy]><before adopting [Order]>", "Adopt [Constitution] <before adopting [Autocracy]><before adopting [Order]>", "Adopt [Patronage]", "Only available <in [Capital] cities>"]
 	},
 ]
