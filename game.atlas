@@ -11,3 +11,9 @@ NationIcons/National Builder Arabia
   orig: 2048, 2048
   offset: 0, 0
   index: -1
+
+Tak berjudul5579.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
