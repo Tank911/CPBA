@@ -45,7 +45,6 @@
 	{
 		"name": "IR-2 Tank",
 		"uniqueTo": "National Builder Arabia",
-		"replaces": "Tank",
 		"unitType": "Armored",
 		"movement": 5,
 		"strength": 80,
