@@ -14,7 +14,7 @@
 		"attackSound": "tankshot"
 	},
 	{
-		"name": "Landship (Muhammad II)",
+		"name": "[Landship] (Muhammad II)",
 		"uniqueTo": "National Builder Arabia",
 		"replaces": "Landship",
 		"unitType": "Armored",
