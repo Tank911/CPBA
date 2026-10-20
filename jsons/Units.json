@@ -1,10 +1,11 @@
 [
 	{
 		"name": "[Landship] (Muhammad I)",
+		"uniqueTo": "National Builder Arabia",
 		"unitType": "Armored",
-		"movement": 4,
-		"strength": 60,
-		"cost": 350,
+		"movement": 3,
+		"strength": 49,
+		"cost": 280,
 		"requiredTech": "Combustion",
 		"requiredResource": "Oil",
 		"upgradesTo": "Tank",
@@ -14,6 +15,8 @@
 	},
 	{
 		"name": "Landship (Muhammad II)",
+		"uniqueTo": "National Builder Arabia",
+		"replaces": "Landship",
 		"unitType": "Armored",
 		"movement": 4,
 		"strength": 60,
@@ -27,10 +30,11 @@
 	},
 	{
 		"name": "[Landship] (Muhammad III)",
+		"uniqueTo": "National Builder Arabia",
 		"unitType": "Armored",
 		"movement": 4,
-		"strength": 60,
-		"cost": 350,
+		"strength": 70,
+		"cost": 420,
 		"requiredTech": "Combustion",
 		"requiredResource": "Oil",
 		"upgradesTo": "Tank",
