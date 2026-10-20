@@ -4,42 +4,42 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/AbsoluteUnits/Units/Landship
+TileSets/AbsoluteUnits/Units/[Landship] (Muhammad I)
   rotate: false
   xy: 447, 376
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Landship-1
+TileSets/AbsoluteUnits/Units/[Landship] (Muhammad I)-1
   rotate: false
   xy: 447, 303
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Landship-2
+TileSets/AbsoluteUnits/Units/[Landship] (Muhammad I)-2
   rotate: false
   xy: 447, 230
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Landship
+TileSets/AbsoluteUnits/Units/[Landship] (Muhammad III)
   rotate: false
   xy: 447, 376
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Landship-1
+TileSets/AbsoluteUnits/Units/[Landship] (Muhammad III)-1
   rotate: false
   xy: 447, 303
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Landship-2
+TileSets/AbsoluteUnits/Units/[Landship] (Muhammad III)-2
   rotate: false
   xy: 447, 230
   size: 77, 65
